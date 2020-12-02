@@ -3,10 +3,10 @@ title: All Net Cleaning
 description: 'Υγιεινή Καθαριότητα'
 url: 'https://allnetcleaning.gr'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
+profilepic: '/images/logo.png'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+font_awesome: '42deadbeef.js'
 
 author:
   name: 'All Net Cleaning'
